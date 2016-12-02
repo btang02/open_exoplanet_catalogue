@@ -14,7 +14,7 @@
 		<magI>13.8</magI>
 		<mass>0.13</mass>
 		<radius>0.17</radius>
-		<metallicity>-0.3</metallicity>
+		<metallicity>-0.48</metallicity>
 		<magJ errorminus="0.021" errorplus="0.021">12.177</magJ>
 		<magH errorminus="0.018" errorplus="0.018">11.685</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.465</magK>
@@ -26,7 +26,7 @@
 			<name>KIC 8561063 b</name>
 			<name>KIC 8561063.01</name>
 			<list>Confirmed planets</list>
-			<radius>0.070</radius>
+			<radius>0.07</radius>
 			<period>1.2137672</period>
 			<semimajoraxis>0.0116</semimajoraxis>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455003.48329</transittime>
