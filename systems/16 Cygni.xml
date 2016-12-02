@@ -65,15 +65,15 @@
 			<name>BD+50 2848</name>
 			<name>2MASS J19415198+5031032</name>
 			<name>KIC 12069449</name>
-			<mass errorminus="0.02" errorplus="0.02">1.07</mass>
-			<radius errorminus="0.007" errorplus="0.007">1.127</radius>
+			<mass errorminus="0.02" errorplus="0.04">1.01</mass>
+			<radius errorminus="0.13" errorplus="0.13">0.98</radius>
 			<magB>6.86</magB>
-			<magV>6.20</magV>
+			<magV>6.250</magV>
 			<magJ>4.99</magJ>
 			<magH>4.70</magH>
 			<magK>4.65</magK>
-			<temperature errorminus="50" errorplus="50">5750</temperature>
-			<metallicity errorminus="0.021" errorplus="0.021">0.052</metallicity>
+			<temperature errorminus="60.0" errorplus="60.0">5766.0</temperature>
+			<metallicity errorminus="0.04" errorplus="0.04">0.08</metallicity>
 			<spectraltype>G2V</spectraltype>
 			<age errorminus="0.4" errorplus="0.4">6.8</age>
 			<planet>
@@ -90,7 +90,7 @@
 				<inclination errorminus="1" errorplus="1">45</inclination>
 				<description>16 Cygni is a hierarchical triple system. The star is in the Kepler field of view. In an active search for extra-terrestrial intelligence a radio message has been sent to this system on May 24 1999. It will reach the system in 2069.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/09/22</lastupdate>
+				<lastupdate>16/12/01</lastupdate>
 				<discoveryyear>1996</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
