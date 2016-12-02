@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-42</name>
 	<name>KOI-961</name>
-	<rightascension>19 28 52</rightascension>
+	<rightascension>19 28 52.57</rightascension>
 	<declination>+43 37 09</declination>
 	<distance>38.7</distance>
 	<star>
@@ -9,7 +9,7 @@
 		<name>KOI-961</name>
 		<name>KIC 8561063</name>
 		<magB errorminus="0.14" errorplus="0.14">17.96</magB>
-		<magV errorminus="0.055" errorplus="0.055">16.124</magV>
+		<magV errorminus="0.055" errorplus="0.055">16.12</magV>
 		<magR>16.06</magR>
 		<magI>13.8</magI>
 		<mass>0.13</mass>
@@ -26,13 +26,13 @@
 			<name>KIC 8561063 b</name>
 			<name>KIC 8561063.01</name>
 			<list>Confirmed planets</list>
-			<radius>0.07108</radius>
-			<period>1.21376</period>
+			<radius>0.070</radius>
+			<period>1.2137672</period>
 			<semimajoraxis>0.0116</semimajoraxis>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455003.48329</transittime>
 			<description>KOI-961 is an M-dwarf with transit signals of at least three short-period planets. The properties of the star are very similar to those of Barnard's star, the fourth closest star to the Sun. All planets in the system are very close to their host star and thought to be rocky. The system is more similar in size to Jupiter and its moons than any other planetary system.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/01/11</lastupdate>
+			<lastupdate>16/12/01</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>KOI961</image>
 			<imagedescription>Artist's concept of the planetary system KOI-961 with three planets orbiting an M-dwarf. 
