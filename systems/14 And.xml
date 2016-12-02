@@ -1,8 +1,8 @@
 <system>
 	<name>14 And</name>
-	<rightascension>23 31 17.41346</rightascension>
+	<rightascension>23 31 17.42</rightascension>
 	<declination>+39 14 10.3092</declination>
-	<distance errorminus="1.7" errorplus="1.7">76.39</distance>
+	<distance errorminus="4.1" errorplus="4.1">76.4</distance>
 	<star>
 		<name>14 And</name>
 		<name>14 Andromedae</name>
@@ -12,7 +12,7 @@
 		<name>HR 8930</name>
 		<name>BD+38 5023</name>
 		<name>2MASS J23311742+3914102</name>
-		<mass errorminus="0.2" errorplus="0.1">2.2</mass>
+		<mass errorminus="0.2" errorplus="0.2">2.2</mass>
 		<radius errorminus="1" errorplus="1">11</radius>
 		<magV>5.22</magV>
 		<magB>6.24</magB>
